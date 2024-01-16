@@ -26,7 +26,7 @@ export const RESUME_DATA = {
   locationLink: "https://www.google.com/maps/place/dhanbad",
   about: "Building better web experiences ✨",
   summary:
-    "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead a team effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, Next.js and Express.js. I have over [2+ years] of experience in working in offices and remotely with companies all around the world.",
+    "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead team effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, Next.js and Express.js. I have over 2+ years of experience in working in offices and remotely with companies all around the world.",
   avatarUrl: "https://avatars.githubusercontent.com/u/28717686?v=4",
   personalWebsiteUrl: "https://milindmishra.com",
   contact: {
@@ -73,8 +73,9 @@ export const RESUME_DATA = {
       logo: ParabolLogo,
       start: "2023",
       end: "2024",
-      description:
-        "Implemented new features, led squad, worked on improving the way developers ship the code, started migration from Emotion to Tailwind CSS and more. Technologies: React, TypeScript, GraphQL",
+      description: `
+      Designed and built the MVP (Recruitment Platform)  Hired and led a team of 4 engineers for the MVP. Technologies: Next.js, TypeScript, Kysely, Prisma, MySQL, TailwindCSS, Vercel.
+      `,
     },
     {
       company: "Locus Connect",
@@ -85,7 +86,7 @@ export const RESUME_DATA = {
       start: "2022",
       end: "2023",
       description:
-        "Created Android mobile apps and led teams for companies like Vision Media, DKMS, or AAA. Built live streaming application for Evercast from scratch. Technologies: Android, Kotlin, React, TypeScript, GraphQL",
+        "Built the Location as a Service (LaaS) platform to monitor tags in a anchor fit environment. Technologies: React.js, THREE.js, WebSockets.",
     },
     {
       company: "iNeuron.ai",
@@ -96,33 +97,26 @@ export const RESUME_DATA = {
       start: "2022",
       end: "2022",
       description:
-        "Built an Android team, created Android apps for biggest Polish companies like LOT, Polskie Radio, Agora, PolskaPress",
+        "Designed multiple UI Screens for the in-house and vendors. Was a critical part in architecting Design Systems for the platform. Technologies: Figma, React.js, TailwindCSS.",
     },
   ],
   skills: [
     "JavaScript",
     "TypeScript",
     "React/Next.js",
-    "Node.js/Express.js/Hono",
+    "Node.js/Express.js",
     "GraphQL",
     "WebRTC",
   ],
   projects: [
     {
-      title: "Consultly",
-      techStack: [
-        "Side Project",
-        "TypeScript",
-        "Next.js",
-        "Vite",
-        "GraphQL",
-        "WebRTC",
-      ],
-      description: "A platform to build and grow your online business",
+      title: "100xdocs",
+      techStack: ["Side Project", "TypeScript", "Next.js", "MDX"],
+      description: "Docs for everything technology",
       logo: ConsultlyLogo,
       link: {
-        label: "consultly.com",
-        href: "https://consultly.com/",
+        label: "100xdocs.com",
+        href: "https://100xdocs.com/",
       },
     },
   ],
