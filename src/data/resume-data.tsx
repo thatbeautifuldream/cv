@@ -26,7 +26,7 @@ export const RESUME_DATA = {
   locationLink: "https://www.google.com/maps/place/dhanbad",
   about: "Building better web experiences ✨",
   summary:
-    "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead team effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, Next.js and Express.js. I have over 2+ years of experience in working in offices and remotely with companies all around the world.",
+    "As a Full Stack Engineer, I have successfully taken part in building MVPs. I lead team effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, Next.js and Express.js. I have over 2 years of software development experience.",
   avatarUrl: "https://avatars.githubusercontent.com/u/28717686?v=4",
   personalWebsiteUrl: "https://milindmishra.com",
   contact: {
@@ -71,8 +71,8 @@ export const RESUME_DATA = {
       badges: ["Remote, US"],
       title: "Lead Sofware Engineer",
       logo: ParabolLogo,
-      start: "2023",
-      end: "2024",
+      start: "July 2023",
+      end: "Jan 2024",
       description: `
       Designed and built the MVP (Recruitment Platform)  Hired and led a team of 4 engineers for the MVP. Technologies: Next.js, TypeScript, Kysely, Prisma, MySQL, TailwindCSS, Vercel.
       `,
@@ -81,9 +81,9 @@ export const RESUME_DATA = {
       company: "Locus Connect",
       link: "https://locusconnect.com",
       badges: ["Hsinchu, Taiwan"],
-      title: "Frontend Engineer → Full Stack Engineer",
+      title: "Frontend Engineering Intern → Full Stack Engineer (Full Time)",
       logo: ClevertechLogo,
-      start: "2022",
+      start: "Sept 2022",
       end: "2023",
       description:
         "Built the Location as a Service (LaaS) platform to monitor tags in a anchor fit environment. Technologies: React.js, THREE.js, WebSockets.",
@@ -94,20 +94,13 @@ export const RESUME_DATA = {
       badges: ["Bangalore, India"],
       title: "UX Designer → UI Developer",
       logo: JojoMobileLogo,
-      start: "2022",
+      start: "Aug 2022",
       end: "2022",
       description:
         "Designed multiple UI Screens for the in-house and vendors. Was a critical part in architecting Design Systems for the platform. Technologies: Figma, React.js, TailwindCSS.",
     },
   ],
-  skills: [
-    "JavaScript",
-    "TypeScript",
-    "React/Next.js",
-    "Node.js/Express.js",
-    "GraphQL",
-    "WebRTC",
-  ],
+  skills: ["JavaScript", "TypeScript", "React/Next.js", "Node.js/Express.js"],
   projects: [
     {
       title: "100xdocs",
