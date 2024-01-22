@@ -1,23 +1,10 @@
+import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 import {
-  AmbitLogo,
-  BarepapersLogo,
-  BimLogo,
-  CDGOLogo,
   ClevertechLogo,
   ConsultlyLogo,
-  EvercastLogo,
-  Howdy,
-  JarockiMeLogo,
   JojoMobileLogo,
-  Minimal,
-  MobileVikingsLogo,
-  MonitoLogo,
-  NSNLogo,
   ParabolLogo,
-  TastyCloudLogo,
-  YearProgressLogo,
 } from "@/images/logos";
-import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
   name: "Milind Kumar Mishra",
@@ -94,8 +81,8 @@ export const RESUME_DATA = {
       badges: ["Bangalore, India"],
       title: "UX Designer → UI Developer",
       logo: JojoMobileLogo,
-      start: "Aug 2022",
-      end: "2022",
+      start: "June 2022",
+      end: "Aug 2022",
       description:
         "Designed multiple UI Screens for the in-house and vendors. Was a critical part in architecting Design Systems for the platform. Technologies: Figma, React.js, TailwindCSS.",
     },
