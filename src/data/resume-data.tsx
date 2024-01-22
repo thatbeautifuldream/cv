@@ -13,7 +13,7 @@ export const RESUME_DATA = {
   locationLink: "https://www.google.com/maps/place/dhanbad",
   about: "Building better web experiences ✨",
   summary:
-    "As a Full Stack Engineer, I have successfully taken part in building products from scratch. I lead team effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, Next.js and Express.js. I have over 2 years of software development experience.",
+    "As a Full Stack Engineer, I have successfully taken part in building products scratch. I lead team effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, Next.js and Express.js. I have over 2 years of software development experience.",
   avatarUrl: "https://avatars.githubusercontent.com/u/28717686?v=4",
   personalWebsiteUrl: "https://milindmishra.com",
   contact: {
@@ -41,14 +41,14 @@ export const RESUME_DATA = {
     {
       school: "National Yang Ming Chao Tung University",
       degree: "Short Term Research Program",
-      start: "2023",
-      end: "2023",
+      start: "Jan 2023",
+      end: "Aug 2023",
     },
     {
       school: "Visvesvaraya Technological University",
       degree: "Bachelor's Degree in Electronics and Communication",
-      start: "2018",
-      end: "2022",
+      start: "Aug 2018",
+      end: "Sept 2022",
     },
   ],
   work: [
@@ -58,7 +58,7 @@ export const RESUME_DATA = {
       badges: ["Remote, US"],
       title: "Lead Sofware Engineer",
       logo: ParabolLogo,
-      start: "Aug 2023",
+      start: "July 2023",
       end: "Jan 2024",
       description: `
       Designed and built the MVP (Recruitment Platform)  Hired and led a team of 4 engineers for the MVP. Technologies: Next.js, TypeScript, Kysely, Prisma, MySQL, TailwindCSS, Vercel.
@@ -71,7 +71,7 @@ export const RESUME_DATA = {
       title: "Frontend Engineering Intern → Full Stack Engineer (Full Time)",
       logo: ClevertechLogo,
       start: "Sept 2022",
-      end: "July 2023",
+      end: "June 2023",
       description:
         "Built the Location as a Service (LaaS) platform to monitor tags in a anchor fit environment. Technologies: React.js, THREE.js, WebSockets.",
     },
